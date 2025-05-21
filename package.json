@@ -1,0 +1,53 @@
+{
+    "name": "datatables.net-columncontrol-dt",
+    "description": "ColumnControl for DataTables with styling for [DataTables](https://datatables.net/)",
+    "main": "js/columnControl.dataTables.js",
+    "module": "js/columnControl.dataTables.mjs",
+    "style": "css/columnControl.dataTables.css",
+    "types": "./types/columnControl.dataTables.d.ts",
+    "version": "0.0.1",
+    "files": [
+        "css/**/*.css",
+        "js/**/*.js",
+        "js/**/*.mjs",
+        "types/**/*.d.ts"
+    ],
+    "keywords": [
+        "ColumnControl",
+ "search",
+ "filter",
+ "buttons",
+ "column visibility",
+                "Datatables",
+        "jQuery",
+        "table",
+        "filter",
+        "sort"
+    ],
+    "dependencies": {
+        "datatables.net-columncontrol": "~0.0.1",
+        "datatables.net-dt": "~2.2",
+        "jquery": ">=1.7"
+    },
+    "moduleType": [
+        "globals",
+        "amd",
+        "node"
+    ],
+    "ignore": [
+        "composer.json",
+        "datatables.json",
+        "package.json"
+    ],
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DataTables/Dist-DataTables-ColumnControl-DataTables.git"
+    }
+}

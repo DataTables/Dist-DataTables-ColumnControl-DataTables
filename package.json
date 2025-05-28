@@ -19,15 +19,13 @@
  "buttons",
  "column visibility",
                 "Datatables",
-        "jQuery",
         "table",
         "filter",
         "sort"
     ],
     "dependencies": {
         "datatables.net-columncontrol": "~0.0.1",
-        "datatables.net-dt": "~2.2",
-        "jquery": ">=1.7"
+        "datatables.net-dt": "~2.3"
     },
     "moduleType": [
         "globals",

@@ -5,7 +5,7 @@
     "module": "js/columnControl.dataTables.mjs",
     "style": "css/columnControl.dataTables.css",
     "types": "./types/columnControl.dataTables.d.ts",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -24,7 +24,7 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-columncontrol": "1.2.0",
+        "datatables.net-columncontrol": "1.2.1",
         "datatables.net-dt": "^2.3.2"
     },
     "moduleType": [

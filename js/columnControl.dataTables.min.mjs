@@ -1,4 +1,4 @@
-/*! DataTables styling wrapper for ColReorder
- * © SpryMedia Ltd - datatables.net/license
+/*! ColumnControl default styling 2.0.0-beta.1 for DataTables
+ * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
-import jQuery from"jquery";import DataTable from"datatables.net-dt";import ColumnControl from"datatables.net-columncontrol";let $=jQuery;export default DataTable;
+import DataTable from"datatables.net-dt";import ColumnControl from"datatables.net-columncontrol";export default DataTable;

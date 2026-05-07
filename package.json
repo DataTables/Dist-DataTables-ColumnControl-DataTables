@@ -5,7 +5,7 @@
     "module": "js/columnControl.dataTables.mjs",
     "style": "css/columnControl.dataTables.css",
     "types": "./types/columnControl.dataTables.d.ts",
-    "version": "1.2.1",
+    "version": "2.0.0-beta.1",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -24,19 +24,9 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-columncontrol": "1.2.1",
-        "datatables.net-dt": "^2.3.2"
+        "datatables.net-columncontrol": "2.0.0-beta.1",
+        "datatables.net-dt": "3.0.0-0"
     },
-    "moduleType": [
-        "globals",
-        "amd",
-        "node"
-    ],
-    "ignore": [
-        "composer.json",
-        "datatables.json",
-        "package.json"
-    ],
     "author": {
         "name": "SpryMedia Ltd",
         "url": "http://datatables.net"
@@ -46,6 +36,6 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/DataTables/Dist-DataTables-ColumnControl-DataTables.git"
+        "url": "git+https://github.com/DataTables/ColumnControl.git"
     }
 }

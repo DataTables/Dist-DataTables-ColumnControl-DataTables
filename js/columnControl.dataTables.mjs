@@ -1,4 +1,4 @@
-/*! ColumnControl default styling 2.0.1 for DataTables
+/*! ColumnControl default styling 2.0.2 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 

@@ -40,9 +40,10 @@
     "exports": {
         ".": {
             "types": "./types/columnControl.dataTables.d.ts",
+            "style": "./css/columnControl.dataTables.css",
             "import": "./js/columnControl.dataTables.mjs",
-            "default": "./js/columnControl.dataTables.mjs",
-            "require": "./js/columnControl.dataTables.js"
+            "require": "./js/columnControl.dataTables.js",
+            "default": "./js/columnControl.dataTables.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
